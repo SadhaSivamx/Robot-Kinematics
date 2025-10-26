@@ -7,5 +7,5 @@ Project repository for robotic arm kinematics, including code, math, and resourc
   
 ### Resources
 This is a living list of the resources I've found helpful:
-* [Youtube][Easy inverse kinematics for robot arms](https://www.youtube.com/watch?v=Q-UeYEpwXXU)
-* [Blog][Mastering Servo Control With PCA9685 and Arduino](https://www.instructables.com/Mastering-Servo-Control-With-PCA9685-and-Arduino/)
+* Youtube : [Easy inverse kinematics for robot arms](https://www.youtube.com/watch?v=Q-UeYEpwXXU)
+* Blog : [Mastering Servo Control With PCA9685 and Arduino](https://www.instructables.com/Mastering-Servo-Control-With-PCA9685-and-Arduino/)
