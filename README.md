@@ -1,9 +1,9 @@
 ### Robot-Kinematics
 Project repository for robotic arm kinematics, including code, math, and resources.
 
-### Design
+### Mechanical Design
 <img width="1000" height="898" alt="image" src="https://github.com/user-attachments/assets/824b3c2f-c3af-4d8b-99b8-e68f9cd34507" />
-* [Amazon](https://www.amazon.in/Printed-Bots-Quality-Compatible-Bluetooth/dp/B08R2JLKYM)
+* Buying link : [Amazon](https://www.amazon.in/Printed-Bots-Quality-Compatible-Bluetooth/dp/B08R2JLKYM)
   
 ### Resources
 This is a living list of the resources I've found helpful:
