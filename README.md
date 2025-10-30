@@ -1,6 +1,9 @@
 ### Robot-Kinematics
 Project repository for robotic arm kinematics, including code, math, and resources.
 
+### Iteration - 1
+https://github.com/user-attachments/assets/fcd13e04-ab54-46e2-ab28-535e79e3f45e
+
 ### Mechanical Design
 <img width="1000" height="898" alt="image" src="https://github.com/user-attachments/assets/824b3c2f-c3af-4d8b-99b8-e68f9cd34507" />
 
